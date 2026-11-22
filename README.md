@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/cover.jpg" alt="AI Vision — loss prevention on your existing cameras" width="100%">
+  <img src="assets/cover.jpg" alt="Spectra — loss prevention on your existing cameras" width="100%">
 </p>
 
-# AI Vision — money that leaves past the till, caught on your own cameras
+# Spectra — money that leaves past the till, caught on your own cameras
 
 **Every hand-out is checked against the receipt. Every mismatch reaches the owner in Telegram within minutes as an alert with a frame, the receipt and a short clip; ask "review receipt N" and get a one-line verdict.** No hours of footage to scroll through.
 
-Running as a pilot at one operating café in Baku. Product page: [sci-fi.az/en/products/ai-vision](https://sci-fi.az/en/products/ai-vision)
+Running as a pilot at one operating café in Baku. Product page: [sci-fi.az/en/products/spectra](https://sci-fi.az/en/products/spectra)
 
 ## The schemes it catches
 
